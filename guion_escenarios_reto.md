@@ -12,80 +12,71 @@
 
 ## Objetivos 
 
-En esta fase abordaremos la descomposición del reto complejo asignado en componentes o problemas más manejables. La descomposición funcional es una técnica bien documentada para abordar problemas complejos. La evidencia demuestra quqe dividir un problema en partes más pequeñas ayuda a mejorar la comprensión y facilita la identificación de soluciones viables. Los objetivos concretos de esta fase son:
+Esta es la primera fase en la que comenzamos a abordar los problemas más o menos complicados que se incluyen en el reto socioecológico asignado. Ya quedan atrás las etapas en las que caracterizamos tanto el sistema socioecológico en cuestión como el reto propiamente dicho. Hay dos fases en las que abordaremos los problemas. En esta primera, usaremos la herramienta de los escenarios de futuro para imaginar cómo podría ser nuestro socioecosistema en función de una serie de impulsores. 
 
-- Identificar los componentes principales del problema asignado.
-- Utilizar la información recopilada hasta ahora para descomponer el reto en otros problemas más sencillos de formular.
-- Conectar los problemas más sencillos con cuestiones ecológicas, sociales o ambientales ya conocidas. 
-- Conectar los problemas identificados con los actores ya identificados en los pasos anteriores y con sus intereses.
+Los escenarios de futuro son instrumentos metodológicos muy útiles para imaginar cómo podría evolucionar un sistema determinado en función tanto de su estructura y dinámica interna como considerando una serie de impulsores o "motores de cambio" que pueden ser tanto internos como externos. 
+
+Los objetivos de esta fase son:
+
+- Sintentizar el conocimiento adquirido sobre el sistema socioecológico en forma de varios escenarios de futuro.
+- Proyectar la historia del sistema socioecológico hacia el futuro en función de una serie de impulsores de cambio.
+- Resumir las características de los escenarios de manera escrita y en un dibujo.
 
 
 
 ## ¿Cómo lo hacemos? ¿Qué resultados esperamos?
-La metodología para trabajar en esta fase se basa en los siguientes pasos que se describen con detalle en las siguientes secciones:
+En primer lugar, es útil que nos dotemos de una definición formal de escenario. Segun el panel intergubernamental de cambio climático, un escenario de futuro se puede definir así:
 
-+ Identificación de componentes principales.
-+ Caracterización de componentes principales.
-+ Identificación de obstáculos.
+*Son descripciones plausibles sobre cómo puede desarrollarse el futuro basadas en un conjunto coherente e internamente consistente de suposiciones sobre las relaciones clave y los impulsores de cambio* que operan en un sistema socioecológico determinado.
 
-### Identificación de componentes principales
+En esta definición hay dos elementos clave que se "mueven" en el dominio del tiempo:
 
-En esta fase deberemos dividir el problema complejo general en otros más sencillos que sean más manejables o acotables. Esto nos ayudará a identificar aspectos del reto que pueden ser abordados con el conocimiento del que disponemos. En la identificación de estos "subproblemas" juegan un papel importante los actores identificados en la fase anterior.
+- Relaciones entre elementos del socioecosistema. Ya sabemos que son las relaciones las que hacen que el sistema funcione. La existencia de relaciones implica que hay elementos estructurales entre los cuales se verifican dichas relaciones. En nuestro caso, esos elementos estructurales son, por un lado los actores sociales que hay en un socioecosistema (ej. empresarios, políticos, etc.), y por otro los elementos que conforman el ecosistema (ej. productores primarios, depredadores, etc.)
+- Impulsores de cambio. Este concepto es muy importante para entender bien en qué consisten los escenarios de futuro. Los impulsores son las fuerzas que mueven el sistema hacia un escenario u otro. Pueden ser propiedades internas del sistema (ej. el exceso de ungulados en un parque natural) o más bien externas (ej. el efecto del cambio climático sobre dicho parque natural). Normalmente un escenario se caracteriza porque en él domina uno o varios impulsores de cambio. Son los actores sociales y ecológicos los que definen o caracterizan los impulsores de cambio.
 
-A modo de ejemplo, identificaremos los componentes principales del siguiente reto complejo: ¿Cómo podemos mejorar la motivación de los estudiantes de ciencias ambientales de la UCO? 
+La creación de escenarios de futuro es muy útil cuando trabajamos con sistemas complejos en los que la componente espacial es importante. También funcionan bien en situaciones en las que hay conflictos no resueltos o se vislumbran problemas en el medio o corto plazo. Como estamos abordando retos socioecológicos complejos, se dan todas estas circunstancias. Así que los escenarios de futuro son herramientas muy útiles en nuestro caso.
 
-Para identificar componentes de este reto debemos preguntarnos por las variables o elementos que participan en dicho reto. En este caso podrían ser los siguientes:
+Para crear escenarios realmente útiles se suelen dar una serie de pasos que se describen a continuación con ejemplos sobre los problemas socioecológicos que afectan al espacio protegido de Doñana y su área de influencia:
 
-- La motivación depende del interés previo en la titulación. Por tanto, un problema más manejable sería: *El porcentaje de estudiantes que eligen esta titulación en primer lugar es bajo.*
-- También sabemos que la motivación baja si los estudiantes no son tratados adecuadamente por algunos profesores. Por tanto, un problema manejable sería: *Algunos profesores no tienen suficiente estima por los estudiantes de ambientales.*
-- Por último (hay muchos más, pero en este ejemplo nos quedaremos aquí), sabemos que la sobrecarga de trabajo con poco impacto en el aprendizaje baja la motivación. Tener muchas tareas hace que estudiar se convierta en una carrera de obstáculos. Por tanto, un problema más manejable sería: *Hay poca coordinación en las asignaturas del grado y eso implica sobrecarga inecesaria de tareas.* 
++ **Identificación de actores:** se trata de caracterizar cuáles son los elementos que conforman el socioecosistema tanto desde un punto de vista ecológico como social. Hemos trabajado en estos aspectos en las fases I y II de nuestra metodología. Así que, en teoría, ya debemos de tener bien caracterizados los principales actores de nuestro reto. En el caso que nos ocupa, los actores podrían ser los siguientes:
 
-En el caso de los retos socioecológicos que tenéis que abordar, se podría seguir un proceso parecido.
+  + Agricultores
+  + Ecologistas
+  + Ganaderos
+  + Arroceros
+  + Peregrinos
 
++ **Caracterización de impulsores de cambio**: la idea es identificar cuáles son los procesos o variables que condicionan la dinámica del reto que estamos abordando. Hemos trabajado indirectamente en esto en las fases III, IV, V y VI. Con el conocimiento adquirido deberíamos de estar en disposición de identificar varios impulsores de cambio para nuestro reto socioecológico. Normalmente cada escenario se caracterizar por estar regido por uno o varios impulsores de cambio. En el ejemplo que estamos usando, un impulsor de cambio podría ser el cambio climático. Otro podría ser el desarrollo económico. Definir los impulsores nos ayuda a caracterizar los escenarios:
 
-> [!TIP] 
-> *El resultado de esta etapa es un texto enumeranado los problemas más manejables y describiendo sus características principales. También se puede crear un mapa mental con dichos problemas.*
++ **Definición de los escenarios**: Consiste en combinar el efecto que tienen los impulsores sobre los actores e imaginar a partir de ahí cómo sería el futuro. Cada escenario se caracteriza por una combinación de pesos entre distintos impulsores de cambio. Los escenarios se suelen definir con un título, un breve texto y quizás una imagen descriptiva. El texto debe de contener los siguientes elementos:
 
+  + Combinación de importancia relativa de los impulsores de cambio. Por ejemplo, en el escenario "A", es el cambio climático el principal impulsor de cambio. Este fenómeno condiciona todo lo que ocurre en el sistema.
+  + Efecto de los impulsores de cambio en los actores involucrados y en sus relaciones. Por ejemplo, el cambio climático tendrá los siguientes efectos en los actores descritos anteriormente:
+    + La agricultura cambiará en el sentido de hacerse más independiente del agua. Predominarán los cultivos de secano frente a los de regadío.
+    + Los ecologistas pondrán el foco en intentar conservar lo poco que quede de la marisma del Guadalquivir.
+    + Es probable que en este escenario hayan desaparecido los ganaderos y los arroceros.
+    + Los peregrinos tendrán que adaptar su actividad a las cada vez más inhóspitas condiciones climáticas. 
+  + Relación del escenario con la historia panárquica del reto abordado. Es decir, es necesario indicar en qué medida el escenario descrito está en una fase de liberación, de retroalimentación, etc. De esta forma podremos aprender en qué medida el escenario es una situación más o menos estable o está en proceso de cambio. 
 
+  Con todo esto, estaremos en disposición de escribir un pequeño texto que describa el escenario. Por ejemplo: *El escenario "Doñana Árida" se caracterizar porque el cambio climático es el principal impulsor en el socioecosistema. El clima más árido y seco ha cambiado radicalmente la estructura y funcionamiento del ecosistema. La marisma del Guadalquivir tiene mucha menos superficie de antes. Esto ha reducido su diversidad biológica y también la cantidad de servicios que provee. La agricultura ha cambiado drásticamente hacia cultivos de secano. Los ganaderos han reducido enormemente su actividad y el cultivo de arroz ha desaparecido por completo. Desde un punto de vista de las dinámicas del sistema, podemos decir que este escenario se encuentra al inicio de una fase de conservación después del colapso provocado por el cambio climático y la consiguiente reorganización del sistema.*
 
-### Caracterización de los componentes principales de cada problema manejable
+  
 
-Este segundo paso implica caracterizar cada uno de los problemas identificados anteriormente desde el punto de vista ecológico y social. Se trata de indicar qué elementos sociales y ecológicos participan en cada uno de los problemas "menores" descritos anteriormente.
-
-Por ejemplo, si uno de los retos manejables fuera *Los conejos se comen los olivos*, los componentes ecológico y social serían:
-
-+ Componentes ecológicos:
-  + Las poblaciones de conejos depredan los olivares porque la sequía ha hecho que los pastos sean escasos.
-  + En los últimos años, los cultivos de olivo se han extendido mucho y han reducido la superficie de pasto y de matorral.
-+ Componentes sociales:
-  + Los agricultores ven peligrar su producción por los conejos. 
-  + Los ecologistas ponen de manfiesto el problema.
-  + La administración ambiental se encarga de tramitar las solicitudes de caza de conejos.
-
-
-
-> [!TIP] 
-> *El resultado de esta etapa se incorporará al archivo de texto anterior o al mapa mental que vayáis elaborando.*
++ **Dibujo del escenario**: Una imagen vale más que mil palabras. Así que, después de describir el escenario, vamos a intentar dibujarlo. Sugiero que paséis el texto que describe el escenario a una IA a modo de prompt. Tendréis que hacer varias preguntas y repreguntas para ajustarlo bien. Otra opción es dar rienda suelta a vuestra creatividad visual y dibujar el escenario vosotros mismos :) A continuación se muestra el dibujo del escenario hecho a mano por un artista (arriba. Fuente: evaluación de los ecosistemas del Milenio en España) y lo que nos devuelve una IA (abajo)...
 
 
 
-### Identificación de obstáculos y oportunidades
+![escenario](https://raw.githubusercontent.com/aprendiendo-cosas/P_escenarios_reto_gesteco_ccaa/main/imagenes/portada.png)
 
-El último paso de esta fase implica asignar a cada una de las componentes anteriores uno o varios obstáculos y oportunidades. La idea es que seamos capaces de pensar en limitaciones para resolver el problema y también en oportunidades que surgen. Siguiendo con el ejemplo anterior del conejo, tendríamos lo siguiente
 
-- Componente ecológica: Las poblaciones de conejos depredan los olivares porque la sequía ha hecho que los pastos sean escasos.
-  - Obstáculos para resolver el problema:
-    - No es fácil buscar alternativa para que se alimenten los conejos.
-    - Los agricultores no aceptarán medidas que no impliquen reducir las poblaciones de conejos.
-  - Oportunidades:
-    - Quizás este problema sería una oportunidad para involucrar a los cazadores en la resolución de un problema ambiental.
-    - También puede ser una buena oportunidad para concienciar a la población de los problemas que genera la sustitución de hábitats naturales por cultivos.
 
 
 > [!TIP] 
-> *De nuevo el resultado de esta fase se incorpora al texto o al mapa mental elaborado anteriormente.*
+> *El resultado de esta etapa se pue*
 
 
+
+En [esta](https://github.com/aprendiendo-cosas/P_escenarios_reto_gesteco_ccaa/raw/refs/tags/2024_2025/presentacion/descripcion_escenarios.pptx) presentación hay una descripción más detallada del concepto, así como ideas relacionadas con lo comentado anteriormente. 
 
 
 
