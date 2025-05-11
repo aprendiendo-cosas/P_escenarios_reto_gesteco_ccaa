@@ -6,7 +6,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Unas 2 horas.
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_escenarios_reto_gesteco_ccaa/main/imagenes/portada.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_escenarios_reto_gesteco_ccaa/2024_2025/imagenes/portada.png)
 
 
 
@@ -66,13 +66,17 @@ Para crear escenarios realmente útiles se suelen dar una serie de pasos que se 
 
 
 
-![escenario](https://raw.githubusercontent.com/aprendiendo-cosas/P_escenarios_reto_gesteco_ccaa/main/imagenes/portada.png)
+![escenario](https://raw.githubusercontent.com/aprendiendo-cosas/P_escenarios_reto_gesteco_ccaa/2024_2025/imagenes/dibujos_escenario.png)
 
 
 
 
 > [!TIP] 
-> *El resultado de esta etapa se pue*
+> *El resultado de esta fase consiste en imaginar tres escenarios de futuro siguiendo el método anterior. Los resultados deberán de plasmarse en un documento de texto que contendrá el título del escenario, un texto descriptivo y una imagen que lo caracterice. En principio, sugiero hacer los tres siguientes escenarios:*
+>
+> + *Todo sigue igual: consiste en dejar que el sistema evolucione según están operando los impulsores de cambio en la actualidad.* 
+> + *Escenario abrazando la complejidad: se trata de definir un escenario plausible para el futuro que implique tener en cuenta la complejidad en el proceso de gestión de los socioecosistemas. Es decir, debemos de fomentar la multifuncionalidad de los socioecosistemas y los principios ya vistos en clase.*
+> + *Escenario sin abrazar la complejidad: este escenario, también plausible, se caracteriza por ser consecuencia de una visión monofactorial de la realidad. Es decir, tratamos de fomentar únicamente una de las muchas miradas sobre el socioecosistema (ej. solo conservación o solo explotación agrícola)*
 
 
 
